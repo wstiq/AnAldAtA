@@ -1,2 +1,2 @@
-# AnAldAtA
-a
+# Data Analysys
+initial commit (suicide)
