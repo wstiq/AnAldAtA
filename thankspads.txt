@@ -66,4 +66,4 @@ def simulate(n):
     print("7 is played {}% of the time and wins {}% of the time it is played, and wins {}% of games".format(round(seven_freq*100, 2), round(seven_wwp, 2), round(seven_win, 2)))
     print("There is no winner in {}% of games".format(round(no_winner, 2)))
 
-simulate(1000000)
+simulate(100000)
